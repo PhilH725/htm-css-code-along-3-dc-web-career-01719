@@ -20,6 +20,7 @@ p { /*select all <p> elements */
 
 figcaption {
   font-weight: normal;
-  font-size: 
+  font-size: 0.75em;
+  
 }
 
