@@ -13,4 +13,6 @@ selector {
 
 /* Type Selector */
 
-p { /*select all p elements
+p { /*select all <p> elements */
+  
+}
