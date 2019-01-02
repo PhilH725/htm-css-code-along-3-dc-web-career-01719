@@ -26,7 +26,7 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", seriff; */
-  font: normal 0.75em/1.5em Elsie Swash Caps, cursive;
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #777;
   text-align: right;
 }
@@ -34,6 +34,6 @@ figcaption {
 /* Class selector (applied to as many elements as you like) */
 
 .milk-text { /*select elements with the class="milk-text" */
-  
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
 }
 
