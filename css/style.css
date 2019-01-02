@@ -41,3 +41,8 @@ figcaption {
 
 /* ID Selector (applied to one unique element per page) */
 
+#logo { /*select element with id="logo" */
+  
+}
+
+
